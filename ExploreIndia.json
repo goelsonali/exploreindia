@@ -1,0 +1,75 @@
+[
+  {
+    "packageType": "Backpack India",
+    "title": "Big Sur Retreat",
+    "blurb": "The content for this field  is only available in the course exercise files found on the website library.",
+    "description": "The content for this field  is only available in the course exercise files found on the website library.",
+    "bullets": "The content for this field  is only available in the course exercise files found on the website library.",
+    "difficulty": "Medium",
+    "length": "3 days",
+    "price": "750",
+    "region": "Central India",
+    "keywords": "Hiking, National Parks, Big Sur"
+  },
+  {
+    "packageType": "Backpack India",
+    "title": "In the Steps of John Muir",
+    "blurb": "The content for this field  is only available in the course exercise files found on the website library.",
+    "description": "The content for this field  is only available in the course exercise files found on the website library.",
+    "bullets": "The content for this field  is only available in the course exercise files found on the website library.",
+    "difficulty": "Difficult",
+    "length": "3 days",
+    "price": "600",
+    "region": "Northern India",
+    "keywords": "Hiking, National Parks, Yosemite, John Muir, Camping"
+  },
+  {
+    "packageType": "Backpack India",
+    "title": "The Death Valley Survivor's Trek",
+    "blurb": "The content for this field  is only available in the course exercise files found on the website library.",
+    "description": "The content for this field  is only available in the course exercise files found on the website library.",
+    "bullets": "The content for this field  is only available in the course exercise files found on the website library.",
+    "difficulty": "Difficult",
+    "length": "2 days",
+    "price": "250",
+    "region": "South India",
+    "keywords": "Hiking, Desert, Camping, Mojave, Death Valley"
+  },
+  {
+    "packageType": "Culture of India",
+    "title": "Culture of India Tour",
+    "blurb": "The content for this field  is only available in the course exercise files found on the website library.",
+    "description": "The content for this field  is only available in the course exercise files found on the website library.",
+    "bullets": "The content for this field  is only available in the course exercise files found on the website library.",
+    "difficulty": "Difficult",
+    "length": "4 days",
+    "price": "650",
+    "region": "Northern India",
+    "keywords": "Hiking, Climbing, Backpacking, Culture"
+  },
+  {
+    "packageType": "Yoga in India",
+    "title": "Yogis in India",
+    "blurb": "The content for this field  is only available in the course exercise files found on the website library.",
+    "description": "The content for this field  is only available in the course exercise files found on the website library.",
+    "bullets": "The content for this field  is only available in the course exercise files found on the website library.",
+    "difficulty": "Medium",
+    "length": "1 day",
+    "price": "150",
+    "region": "Southern India",
+    "keywords": "Yoga, Relax, Exercise"
+  },
+  {
+    "packageType": "Mountains of India",
+    "title": "Mountain Beauty",
+    "blurb": "The content for this field  is only available in the course exercise files found on the website library.",
+    "description": "The content for this field  is only available in the course exercise files found on the website library.",
+    "bullets": "The content for this field  is only available in the course exercise files found on the website library.",
+    "difficulty": "Difficult",
+    "length": "1 day",
+    "price": "550",
+    "region": "North India",
+    "keywords": "Hiking, Climbing, Backpacking"
+  }
+
+]
