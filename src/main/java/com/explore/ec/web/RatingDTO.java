@@ -1,6 +1,7 @@
 package com.explore.ec.web;
 
 import com.explore.ec.domain.TourRating;
+import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotNull;
@@ -9,6 +10,7 @@ import jakarta.validation.constraints.Size;
 /**
  * Rating Data transfer object for rating a tour.
  */
+@JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
 public class RatingDTO {
 
     @Min(0)
@@ -40,6 +42,10 @@ public class RatingDTO {
         this.score = score;
         this.comment = comment;
         this.customerId = customerId;
+    }
+
+    protected RatingDTO() {
+
     }
 
     public Integer score() {
